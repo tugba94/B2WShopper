@@ -1,1 +1,13 @@
 Test
+Project name is B2WShoppers
+This project was made for car salesmen who work in the car company. When starting the program there are 2 options. 
+These are log in and sign up. If the employee hasn't logged in before this time he/she needs to sign up. 
+In the program, there is a menu. This menu has seven options. These options are; 
+1. Check Price (Inside this part employee can see the whole cars pice and car pieces price list.)
+2. Select product (Inside this part there are a lot of options as selecting car models choosing car colors, 
+changing basic options or adding extra options.)
+3. Order(In this part employees enter orders. They can change and cancel the order.)
+4. Invoice (With this option employees can see the order's cost.)
+5. Print (With this option employees can print the invoice.)
+6. Log off
+7. Exit
